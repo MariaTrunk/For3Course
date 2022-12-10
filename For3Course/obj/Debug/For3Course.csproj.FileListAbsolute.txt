@@ -1,0 +1,8 @@
+C:\Maria\Programming\From GH SCHOOL\For3Course\For3Course\bin\Debug\For3Course.exe.config
+C:\Maria\Programming\From GH SCHOOL\For3Course\For3Course\bin\Debug\For3Course.exe
+C:\Maria\Programming\From GH SCHOOL\For3Course\For3Course\bin\Debug\For3Course.pdb
+C:\Maria\Programming\From GH SCHOOL\For3Course\For3Course\obj\Debug\For3Course.csproj.AssemblyReference.cache
+C:\Maria\Programming\From GH SCHOOL\For3Course\For3Course\obj\Debug\For3Course.csproj.SuggestedBindingRedirects.cache
+C:\Maria\Programming\From GH SCHOOL\For3Course\For3Course\obj\Debug\For3Course.csproj.CoreCompileInputs.cache
+C:\Maria\Programming\From GH SCHOOL\For3Course\For3Course\obj\Debug\For3Course.exe
+C:\Maria\Programming\From GH SCHOOL\For3Course\For3Course\obj\Debug\For3Course.pdb
